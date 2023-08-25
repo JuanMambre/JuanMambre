@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan Cruz Mambretti</h1>
 <h3 align="center">A passionate frontend developer from Bahia Blanca, Argentina</h3>
+I am a person who seeks professional and personal growth, focused on teamwork, last year I made the decision to reinvent myself professionally so I started training in an area that I have always been passionate about; programming.
+
+As part of my training in web development I have developed competencies in: HTML, CSS, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum.
+
+Being a creative person I have focused on the frontend and UX/UI area, because I firmly believe that solutions can be solved efficiently where design, user experience and functionality are important parts in the development of any web application.
 
 - 🌱 I’m currently learning **UX/UI | TypeScript**
 
