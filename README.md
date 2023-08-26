@@ -8,7 +8,7 @@ Being a creative person I have focused on the frontend and UX/UI area, because I
 
 - 🌱 I’m currently learning **UX/UI | TypeScript**
 
-- 📫 How to reach me **juancmam@gmail.com**
+- 📫 How to reach me **juancmam7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
