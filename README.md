@@ -6,7 +6,7 @@ As part of my training in web development I have developed competencies in: HTML
 
 Being a creative person I have focused on the frontend and UX/UI area, because I firmly believe that solutions can be solved efficiently where design, user experience and functionality are important parts in the development of any web application.
 
-- 🌱 I’m currently learning **UX/UI | TypeScript**
+- 🌱 C# with .NET**
 
 - 📫 How to reach me **juancmam7@gmail.com**
 
